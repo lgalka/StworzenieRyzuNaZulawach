@@ -1,7 +1,4 @@
-# StworzenieRyzuNaZulawach
-Stworzenie Ryżu na Żuławach
-
-# Stworzenie Ryzu Na Zulawach
+# Stworzenie Ryżu Na Żuławach
 3City Game Jam 2014
 
 # GameJam link
