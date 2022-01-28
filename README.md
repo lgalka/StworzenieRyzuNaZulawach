@@ -1,5 +1,5 @@
 # Stworzenie Ryżu Na Żuławach
-3City Game Jam 2014
+Gam Dżam 2022
 
 # GameJam link
 Ni ma :(
