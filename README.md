@@ -1,6 +1,6 @@
 # Stworzenie Ryżu Na Żuławach
 Gam Dżam 2022
-
+lgalka
 # GameJam link
 Ni ma :(
 
